@@ -1,0 +1,12 @@
+torch
+datasets
+accelerate
+peft
+bitsandbytes==0.40.2
+trl==0.4.7
+langchain
+sentence_transformers
+faiss-cpu
+pypdf
+transformers
+
